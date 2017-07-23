@@ -1,0 +1,8 @@
+{
+    "admin": {
+        "password": "demo"
+    },
+    "demo": {
+        "password": "pass"
+    }
+}
