@@ -1,0 +1,23 @@
+{
+  "name": "hapi-university",
+  "version": "0.0.1",
+  "description": "Assignment 1",
+  "main": "lib/index.js",
+  "scripts": {
+    "start": "node lib/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://smshuja@github.com/smshuja/university.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smshuja/university/issues"
+  },
+  "homepage": "https://github.com/smshuja/university#readme",
+  "dependencies": {
+    "hapi": "^16.5.0",
+    "hoek": "^4.2.0"
+  }
+}
